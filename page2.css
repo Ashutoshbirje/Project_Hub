@@ -111,6 +111,9 @@
   .c {
     padding: 24px 24px 24px 12px;
     background-color: rgba(128, 150, 150, 0.117);
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }
 
   .skill {

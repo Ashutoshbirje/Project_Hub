@@ -1,5 +1,11 @@
 const projects = [
   {
+    image: './Images/Project19.png',
+    title: 'Poster',
+    description: 'CANVA',
+    liveLink: 'https://www.canva.com/design/DAGdZjNHtvM/eA4xUfPRZRfBjw1Tlqpl2w/edit?utm_content=DAGdZjNHtvM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton',
+  },
+  {
     image: './Images/Project9.png',
     title: 'Poster',
     description: 'CANVA',
